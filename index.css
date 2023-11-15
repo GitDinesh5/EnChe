@@ -50,7 +50,7 @@ body{
 }
 /*------------landing area---------------*/
 .container{
-    background: white url(img/background.Jpg) no-repeat scroll center;
+    background: white url(./img/background.Jpg) no-repeat scroll center;
     height:100vh;
     background-size: cover;
     color:white;
